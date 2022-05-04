@@ -1,0 +1,8 @@
+exercicio de logica
+leia"valor da altura do objeto",H
+leia"valor da base do objeto",B
+Area=B*H
+Perimetro=2(B+H)
+imprimir Area
+imprimir Perimetro
+test
